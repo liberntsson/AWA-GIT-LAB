@@ -14,6 +14,7 @@ namespace ConsoleApplication1
             {
                 Console.WriteLine("denna labb tar så sjukt onödigt mkt tid");
                 Console.ReadKey();
+                Console.WriteLine("gogogogo");
             }
         }
     }
